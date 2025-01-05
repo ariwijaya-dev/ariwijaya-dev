@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-<!--
-**ariwijaya-dev/ariwijaya-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_technologist: &nbsp;About Me :
 
-Here are some ideas to get you started:
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m working as a Software Engineer especially building web applications.
+- ⚡ In my free time I like to read tech articles.
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ariwijaya82-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ariwijaya82)
+---
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ariwijaya82&theme=dark&background=000000)](https://git.io/streak-stats)
